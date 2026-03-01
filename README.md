@@ -24,7 +24,7 @@ pip install pygame
 ## How to Run
 
 ```
-python pathfinding_agent.py
+python pathfinding.py
 ```
 
 ---
